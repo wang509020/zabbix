@@ -1,2 +1,12 @@
-是我个人工作总结，主要应用于zabbix4.0.15的模板，侧重于监控各个设备的性能及相应的应用。
-版本：zabbix 4.0.15
+# 系统版本
+   centos:7.6
+   没有版本限制
+# zabbix版本
+   zabbix: 4.0.15
+# 对应模板
+  系统模板：windows,linux
+  交换机模板：huawei,h3c,cisco,A10,深信服，
+  数据库模板：mysql,sqlserver,postgresql,
+  服务模板：haproxy,keepalived,
+  网站架构模板：nginx,apache,tomcat,java
+  
